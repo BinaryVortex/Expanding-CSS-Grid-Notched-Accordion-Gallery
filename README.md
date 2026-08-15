@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # Expanding CSS Grid Notched Accordion Gallery
 
 A clean, interactive image gallery built with **HTML and CSS**, featuring an expanding CSS Grid accordion layout and a distinctive **notched-card design**.
